@@ -1,0 +1,5 @@
+Webchecker.py will search the website for key words/phrases. 
+If found or updated, an email alert will be sent to you.
+Set your email and password as environment variables which will be called as 'EMAIL' and 'PASS'
+Currently, the code is set to alert for two different pages. This can be changed to however many pages.
+
